@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k41CvUZ0dCIQDp2bOiWNuDyxn1Pv1jsijraOj5P6Fl/2HlOrMFsF9gNmI7Yq0UQhrfouZljwTiDvxi5fd/mYJA==",
+  "dgSpecHash": "gN+7wC/CsubfKas7I8aGlg9n/uJZ2PoJPS/pHM/7lXAS3z27BUPU4b+KjwF5GkoB5W/i2jxx/TGNr0/rdRWIKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nesrine\\Source\\Repos\\SIRH\\SIRH_Infrastructure\\SIRH_Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Nesrine\\Source\\Repos\\nesrine345\\SIRH\\SIRH_Infrastructure\\SIRH_Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nesrine\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Nesrine\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

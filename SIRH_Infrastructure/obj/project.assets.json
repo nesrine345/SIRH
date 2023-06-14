@@ -8789,11 +8789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nesrine\\Source\\Repos\\SIRH\\SIRH_Infrastructure\\SIRH_Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Nesrine\\Source\\Repos\\nesrine345\\SIRH\\SIRH_Infrastructure\\SIRH_Infrastructure.csproj",
       "projectName": "SIRH_Infrastructure",
-      "projectPath": "C:\\Users\\Nesrine\\Source\\Repos\\SIRH\\SIRH_Infrastructure\\SIRH_Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Nesrine\\Source\\Repos\\nesrine345\\SIRH\\SIRH_Infrastructure\\SIRH_Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Nesrine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nesrine\\Source\\Repos\\SIRH\\SIRH_Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Nesrine\\Source\\Repos\\nesrine345\\SIRH\\SIRH_Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nesrine\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8811,8 +8811,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Nesrine\\Source\\Repos\\SIRH\\SIRH_DataBase\\SIRH_DataBase.csproj": {
-              "projectPath": "C:\\Users\\Nesrine\\Source\\Repos\\SIRH\\SIRH_DataBase\\SIRH_DataBase.csproj"
+            "C:\\Users\\Nesrine\\Source\\Repos\\nesrine345\\SIRH\\SIRH_DataBase\\SIRH_DataBase.csproj": {
+              "projectPath": "C:\\Users\\Nesrine\\Source\\Repos\\nesrine345\\SIRH\\SIRH_DataBase\\SIRH_DataBase.csproj"
             }
           }
         }
